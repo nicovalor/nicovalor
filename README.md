@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicovalor
-- 👀 I’m interested BackEnd Devepment and Data Science.
-- 🌱 I’m currently studying on SoyHenry.com :)
+- 👀 I’m interested Full Stack Development and Mobile development.
+- 🌱 I’m currently working on some personal proyects for my personal portfolio :)
 - 💞️ I want to collaborate with great people who I can share all my knowledge and experience with
 - 📫 How to reach me: nicoo.valor@gmail.com or @nicovalor16 on twitter
 
